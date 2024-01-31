@@ -74,6 +74,22 @@ export class ProjectsComponent {
         },
       ],
     },
+
+    {
+      src: 'assets/img/projects/git.png',
+      alt: 'Meu Git',
+      title: 'Git',
+      with: '100px',
+      height: '100px',
+      description:
+        '<p>Para ver mais sobre meus projetos.</p>',
+      links: [
+        {
+          name: 'Conheça mais sobre',
+          href: 'https://github.com/cadusamparo/Calculadora-React',
+        },
+      ],
+    },
   ])
 
   public openDialog(data: IProjects) {
