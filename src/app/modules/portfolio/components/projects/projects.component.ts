@@ -70,7 +70,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o projeto',
-          href: 'https://github.com/cadusamparo/Cadastro-de-Usuario',
+          href: 'https://github.com/cadusamparo/Site-Para-Artigos',
         },
       ],
     },
@@ -86,7 +86,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça mais sobre',
-          href: 'https://github.com/cadusamparo/Calculadora-React',
+          href: 'https://github.com/cadusamparo',
         },
       ],
     },
