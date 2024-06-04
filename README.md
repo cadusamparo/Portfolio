@@ -6,4 +6,4 @@ Portfolio feito com ajuda de:  **[Curso de Angular 2 (v17+) Typescript do Básic
 
 ## Link do Portfolio:
 
-https://cadusamparo.github.io/portfolio/browser/
+https://cadusamparo.github.io/portfolio/
